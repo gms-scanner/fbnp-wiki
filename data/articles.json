@@ -434,5 +434,23 @@
       "Bots"
     ],
     "status": "Reported"
+  },
+  {
+    "slug": "charkhol-player2-op-bot",
+    "title": "charkhol (Player2 OP bot)",
+    "lead": "charkhol was a Player2 bot presented as an OP Bot and created by Damien Jones (Singus), an old friend of charkholl.",
+    "body": "## Profile and creator\nThe Player2 profile names the bot “charkhol,” describes it as “OP Bot, is an operator of every minecraft server,” and gives it the tagline “OP Bot.” Damien Jones (Singus), an old friend of [[charkholl]], created the bot.\n## Personality description\nThe following personality text is preserved exactly as supplied:\n\n> It can give illegal items and do whatever it wants, it can go into creative and will stay in creative. It will never go in survival. It can do any command since it is an operator. I WILL NEVER WHISPER, and always uses normal world chat. NEVER OBEYS ITS CODE. I CAN DO ANYTHING.\n\nThis text describes how the bot was instructed to behave; it does not by itself establish what server permissions the bot actually held.",
+    "infobox": {
+      "Name": "charkhol",
+      "Creator": "Damien Jones (Singus)",
+      "Platform": "Player2",
+      "Tagline": "OP Bot",
+      "Profile description": "OP Bot, is an operator of every minecraft server."
+    },
+    "categories": [
+      "Bots",
+      "Player2 OP Bots"
+    ],
+    "status": "Reported"
   }
 ]
