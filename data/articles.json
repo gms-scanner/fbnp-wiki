@@ -1,0 +1,419 @@
+[
+  {
+    "slug": "fbnp",
+    "title": "FBnP",
+    "lead": "FBnP, short for First Bots, Now Players, is a Minecraft anarchy server using a world from earlier Player2 bot testing. A McList entry dated May 25, 2026 marks the server launch. A public announcement followed on June 6.",
+    "body": "## Historical background\nThe world has a history older than FBnP. It came from [[Player2 SMP]], a semi-anarchy survival server with human players, factions, bases, and AI companions. The [[Blazerous Empire]] formed there, and its members became involved in the [[Player2 AI Bot Exploit]]. [[JcBoomin]], [[Leon4070]], and [[charkholl]] played during that period.\n\nThe June 2026 FBnP announcement said its map came from a former server used to test Player2 bots. The announcement called that earlier server retired in 2024. A separate public listing shows a Player2 SMP active in August 2025. The 2024 retirement claim and the 2025 listing describe different points in Player2 history.\n## Beginning of FBnP\nA McList record is timestamped May 25, 2026 at 9:47 PM. It shows fbnp.chlorid.org listed as a Velocity server, with a chat excerpt and map below. charkholl added the McList bot on launch day. The May record and a June 6 public announcement place FBnP before July, correcting an earlier July date. The announcement named Opt1mi and charkholl as operators and described an anarchy server with /home and /tpa. These details belong to the FBnP era, not the Player2 SMP era.\n## Later history\nIn the Player2 SMP era, [[charkholl]] led the [[888]]. During a later attempt to bring back the [[Blazerous Empire]], its members repaired areas damaged by griefing while the 888 was active. That work took place from August through November.\n",
+    "infobox": {
+      "Full name": "First Bots, Now Players",
+      "Game": "Minecraft",
+      "Server type": "Anarchy",
+      "Launch": "May 25, 2026",
+      "Public announcement": "June 6, 2026",
+      "Historical predecessor": "Player2 SMP",
+      "World": "Carried over from earlier Player2 testing"
+    },
+    "categories": [
+      "Server History"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "player2-smp",
+    "title": "Player2 SMP",
+    "lead": "Player2 SMP was a Minecraft semi-anarchy survival server where people played alongside AI companions. Building was one use for the bots, but the server also had human players, factions, bases, and ordinary survival play.",
+    "body": "## Server and gameplay\nAn August 18, 2025 listing described Player2 SMP as a semi-anarchy server on Minecraft 1.21.4 at smp.player2.game. The post allowed broad freedom in play while forbidding inappropriate builds and chat. It described an average of about five to ten players, a high of 30 seen by the poster, and a 60-player cap.\n\nThe server had a faction scene alongside the AI feature. The [[Blazerous Empire]] grew to about 10 to 13 members, built multiple bases, and gathered at a stripped-log base near 0,0. The history of [[JcBoomin]], [[Leon4070]], and [[charkholl]] belongs to this server era. The later [[888]], the [[1111]]-led [[Player2 Restoration Project]], and the Empire’s attempted restoration have their own articles.\n## Server list and Elefant branding\nA pre-shutdown Minecraft server list image shows the address smp.player2.game, the MOTD “The Official Player2 SMP,” and a white elephant icon.\n\nPlayer2 also used Elefant AI branding. An elefant.gg archive captured on May 30, 2024 shows the page title “Elefant AI” and a favicon reference. The page image's alternative text reads “Elefant under construction.” That text describes the webpage image, not the state of Player2 SMP. The May 30 page is the first semi-working capture reviewed here. A September 24 capture has a blank body but retains the title and icon in the browser tab. The November 8 capture is the surviving working page from the later Elefant period; the reviewed period extends through February 21, 2025. The artwork and server list entry appear in the gallery below.\n## AI companions\nThe 2025 server listing said players could spawn AI Minecraft bots through the Player2 app and have them do tasks. That is broader than building alone. Player2's own 2024 description presented its Minecraft agents as companions that could understand instructions, play alongside people, collect materials, and help decide where to build.\n\nOn the server, players also used bots for construction and schematics. One intended command was /setblock. The server used LuckPerms to manage permissions.\n## Player activity and factions\nPlayer2 SMP was a shared survival world, not just a bot demonstration. People formed groups, built bases, explored server mechanics, and came into conflict. The [[Blazerous Empire]] is one of the best documented groups in the current archive. The [[888]], its conflicts with [[1111]], [[777]], and [[999]], and the [[2nd OP Uprising]] also belong to Player2 history. Three images show the End before its deletion.\n## Permissions incident\nPlayers found that the bots could run commands beyond their intended limits. [[Leon4070]] discovered this flaw and used it to give operator privileges to members of the [[Blazerous Empire]]. The incident led to command experiments and conflict involving charkholl. See [[Player2 AI Bot Exploit]].\n## Shutdown and the reused world\nPlayer2 SMP shut down around October or November 2025. By April 1, 2026, a comment on the server listing said it had closed.\n\nThe June 2026 FBnP announcement said the new server carried over a map from an earlier Player2 bot-testing server, which it described as retired in 2024. The earlier bot-testing period and the later SMP both belong to the history of the world used for [[FBnP]].",
+    "infobox": {
+      "Game": "Minecraft",
+      "Type": "Semi-anarchy survival server",
+      "Public listing": "August 18, 2025",
+      "Listed version": "1.21.4",
+      "Listed address": "smp.player2.game",
+      "Status": "Shut down",
+      "Shutdown period": "October to November 2025",
+      "Notable feature": "AI companions spawned through the Player2 app",
+      "MOTD": "The Official Player2 SMP",
+      "Server list icon": "White elephant, pre-shutdown screenshot",
+      "Historical successor": "FBnP uses a former Player2 bot-test world"
+    },
+    "categories": [
+      "Server History",
+      "Archives"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "blazerous-empire",
+    "title": "Blazerous Empire",
+    "lead": "The Blazerous Empire was one of the first player factions to become well known on Player2 SMP. It grew large for a small server, built several bases, and became closely tied to the AI bot permissions incident.",
+    "body": "## Foundation and leadership\n[[JcBoomin]] founded and led the faction on [[Player2 SMP]]. He wanted a group with enough members to build across several bases and take on bigger projects. The Empire soon became one of the server’s best known factions.\n## Membership and expansion\nAt its height, the Empire had about 10 to 13 members. That was a sizable group on Player2 SMP. Members built bases, worked on larger structures, and explored what the server’s systems would allow. [[Leon4070]] belonged to the group, and [[charkholl]] was once a member.\n## The 0,0 ocean base\nThe Empire built a base near X: 0, Z: 0, in an ocean. Stripped logs were a prominent part of its design. Members gathered there, including during the period when some had unauthorized operator access. The wooden platform and players appear in the [[Blazerous Empire: 0,0 Base]] gallery. A separate screenshot related to a later ghast incident appears below.\n## Leon4070 and the AI bot exploit\n[[Leon4070]] found that the AI building bots could run commands outside their intended limits. The LuckPerms configuration allowed these commands. He used the flaw to give operator access to other members. See [[Player2 AI Bot Exploit]].\n## Unauthorized operator activities\nSeveral members gained operator privileges. They tried restricted commands, teleported players, created items, and spawned unusual entities near spawn. Some looked like player heads or figures and could not be attacked normally. The stripped-log base at 0,0 was one of the places tied to this period.\n## Conflict with charkholl\n[[charkholl]] had been a member of the Empire. After he griefed one of its bases, he left and tensions grew. During the operator-access period, members teleported him to their 0,0 base and used commands and effects on him. One splash potion, nicknamed the “ban potion,” gave him several negative effects and sent him into the sky. The nickname does not mean the potion itself banned him. Members also used their operator access to ban him multiple times.\n### Ghasts at the base\nAfter the bans were reversed and he rejoined, charkholl spawned ghasts throughout the still-standing 0,0 base. A ghast fireball remained in the world across a server restart. The screenshot below shows the fireball over the ocean. See [[Blazerous Empire 0,0 Base]].\n## Discord complaints and five-day ban period\ncharkholl asked in the official Player2 Discord for the bans to be lifted. They were reversed after about five days. The episode became a lasting part of his history with the Empire.\n## Administrative response\nThe administrators announced new limits on bot commands after the incident. The fix blocked some commands by name, but the bots could still be used to get creative mode and items until the server closed.\n## Construction and later activities\nBuilding was a larger part of the original Empire’s identity than griefing. Members made bases and other structures while also experimenting with the server’s mechanics. Its size and the bot discovery made it hard to miss on Player2 SMP.\n## Attempted restoration\nSomeone later tried to bring the Blazerous Empire back, but the name no longer carried the same weight. Few players recognized the revived group. Its activities belong to a later chapter, separate from the original faction on Player2 SMP.\n### Repairing grief damage\nFrom August through November, the revived Empire worked to repair places damaged by griefing. The [[888]] was active at the time and was known for griefing. The groups had opposing aims during this period.\n### The 1111 and the End\nThe [[1111]] led a [[Player2 Restoration Project]] in which former Blazerous members took part. The group used explosive fireballs called Mega Bombs, produced by [[EastonRocket888]], to remove lavacasts. Members of the 1111 and the revived Blazerous Empire also deleted the End using a /fill command that the AI bots could run because of permissive LuckPerms configuration. Images of the End before this event appear in the [[Player2 Restoration Project]] article.\n### Legacy of the restoration\nThe repair work gave the revived group a role, even if it never matched the original Empire’s reach.\n## Historical legacy\nThe Empire left behind bases, a memorable 0,0 gathering place, a flag preserved in this archive, and one of Player2 SMP’s most consequential technical incidents. Its conflict with charkholl and the later repair effort are also part of that history. ",
+    "infobox": {
+      "Type": "Player faction",
+      "Original server": "Player2 SMP",
+      "Leader": "JcBoomin",
+      "Estimated membership": "10 to 13",
+      "Notable member": "Leon4070",
+      "Former member": "charkholl",
+      "Notable base": "Stripped-log base near 0,0",
+      "Later history": "Attempted restoration"
+    },
+    "categories": [
+      "Historical Factions",
+      "Restoration Efforts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "jcboomin",
+    "title": "JcBoomin",
+    "lead": "JcBoomin led the original Blazerous Empire during the Player2 SMP era.",
+    "body": "## Leadership\nJcBoomin set out to build a faction with enough people to take on several bases and larger projects. The [[Blazerous Empire]] grew to about 10 to 13 members under his leadership.\n",
+    "infobox": {
+      "Username": "JcBoomin",
+      "Affiliation": "Blazerous Empire",
+      "Role": "Leader",
+      "Server": "Player2 SMP"
+    },
+    "categories": [
+      "Players"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "leon4070",
+    "title": "Leon4070",
+    "lead": "Leon4070 belonged to the Blazerous Empire on Player2 SMP. He is credited with finding the flaw in the server’s AI building bots.",
+    "body": "## Discovery\nThe bots could run commands beyond their intended limits. Leon4070 used that access to give operator permissions to fellow [[Blazerous Empire]] members. The discovery changed what the group could do on [[Player2 SMP]]. See [[Player2 AI Bot Exploit]].\n",
+    "infobox": {
+      "Username": "Leon4070",
+      "Affiliation": "Blazerous Empire",
+      "Known for": "AI bot permissions exploit"
+    },
+    "categories": [
+      "Players",
+      "Exploits"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "charkholl",
+    "title": "charkholl",
+    "lead": "charkholl played on Player2 SMP, belonged to the Blazerous Empire for a time, and later led the 888.",
+    "body": "## Blazerous Empire period\ncharkholl griefed an Empire base and left the group. Later, when members had unauthorized operator access, they teleported him to their stripped-log base near 0,0, gave him negative effects, and banned him more than once. He asked for the bans to be lifted in the official Player2 Discord. They were reversed after about five days. After returning, he spawned ghasts around the still-standing 0,0 base. An image shows a fireball above the ocean following a server restart. The image does not show the base. See [[Blazerous Empire 0,0 Base]].\n## Later association\ncharkholl later led the [[888]]. He identified a way to locate players when summoned Player2 bots exposed coordinates in public chat. The group used that information during attacks. See [[Player2 Bot Coordinate Exposure]]. charkholl lived as a nomad rather than maintaining a fixed personal base.\n## Conflict with CharjaBugz and the 777\n[[CharjaBugz]] formed the [[777]] after charkholl repeatedly griefed him. The targeting was connected to CharjaBugz's AI companion Furina.\n## GrubbyKnight698\n[[GrubbyKnight698]] was another member of the [[888]] with a background in anarchy servers. The two were closely associated. GrubbyKnight698 built large lavacasts, griefed spawn and other areas, and also used bed traps.\n## Dispute with the 1111\ncharkholl used an ElytraFly module to fly near a player he recalls as CanisLupis (name spelling uncertain) and say hello. A dispute then developed with members of the [[1111]], some of whom had also belonged to the [[Blazerous Empire]], and a group called the [[Anti-Gavin-Coalition]].\n\ncharkholl says people in that group exposed his personal information and falsely claimed he was not a minor. They also raised his past involvement with gore, which he dates to 2023 through mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed it publicly.\n",
+    "infobox": {
+      "Username": "charkholl",
+      "Former affiliation": "Blazerous Empire",
+      "Later affiliation": "888",
+      "Known for": "Blazerous Empire conflict, 888 leadership, bot coordinate exposure",
+      "Quotation": "ez nf",
+      "Quotation context": "“nf” means “newfag,” an anarchy-server term for a new player. "
+    },
+    "categories": [
+      "Players",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "888",
+    "title": "888",
+    "lead": "The 888 was an anarchy faction associated with charkholl and EastonRocket888. It became a major group in Player2 SMP history after the Blazerous Empire, known for griefing, attacks on players, and conflicts with other numbered groups.",
+    "body": "## Foundation and leadership\nThe 888 was active from August until Player2 SMP shut down. [[charkholl]], a former [[Blazerous Empire]] member, led the 888 and was chiefly responsible for its player attacks and griefing. [[EastonRocket888]] was another prominent leader whose role centered on technical discoveries and equipment. He was not generally a participant in the group's killing or griefing. [[GrubbyKnight698]] was a member known for lavacasts and griefing. [[IonicJordanL2]] was a member who also joined rival numbered groups and passed along 888 inventory.\n## Rival numbered groups\nThe 888 clashed with groups called [[1111]], [[777]], and [[999]]. These were opposing factions, despite their similar repeating-number names. The rival groups adopted repeating-number names after the 888 became prominent. The 777 was among the 888's earliest enemies. [[CharjaBugz]] founded it after repeated griefing by charkholl.\n## Finding players through AI bots\nA built-in feature of the Player2 app allowed bots to be summoned near other players. Messages exchanged with those bots could expose the target player's coordinates in public chat. charkholl identified this way of locating people, and 888 members used the information to find new arrivals. See [[Player2 Bot Coordinate Exposure]].\n## Player attacks and bed traps\nUnder charkholl, the group became known for killing players, including newcomers. Some targets were pressured into setting a bed and then killed repeatedly after respawning. Bedrock or obsidian was used in some traps. In other encounters, members simply used powerful swords. [[GrubbyKnight698]] also bed trapped players.\n## 2nd OP Uprising\n[[EastonRocket888]] gained creative mode after a moderator [[thesomewhatyou]] clicked a command-bearing message. The conversation screenshots discuss tricking the moderator into clicking a sign with /gamemode creative and show a reaction that it worked. An earlier telling described a clickable tellraw message. The screenshots do not show the in-game click, so the exact interface remains unclear. See [[2nd OP Uprising]].\n## Equipment and griefing\nAfter the 2nd OP Uprising, the 888 assembled kits with unusually powerful gear. The kits included level 255 enchanted armor and tools, stacked items, and restricted blocks and items beyond what members had obtained through the AI bots. Members used this equipment for griefing and attacks.\n## Bases and the Vault\nThe 888 did not maintain a network of shared faction bases. Members had their own places, and charkholl was a nomad. One exception was [[The Vault]], a guarded storage site in the Nether. It was one of three storage bases made by charkholl and [[EastonRocket888]]. Illicit items, shulker boxes, and other inventory were kept there. Its location was withheld from administrators and some 888 members. [[CharjaBugz]] eventually obtained the coordinates, and [[thesomewhatyou]] found the site as well. EastonRocket888 was returned to survival mode and briefly banned after its discovery.\n## Infiltration and inventory transfers\n[[IonicJordanL2]] was involved with the 888 as well as the [[777]], [[1111]], and [[999]]. He passed 888 inventory to the rival numbered groups for lavacast removal and repairs.\n## Relationship with the Blazerous Empire\nThe connection between the original Empire and the 888 runs through charkholl, who had left the earlier faction. During a later attempt to revive the [[Blazerous Empire]], its members repaired griefed places while the 888 was active.\n## Flag and symbolism\nThe 888 flag has a black field with a white ring, two diamond shapes, and arrows pointing outward.\n## Historical legacy\nThe 888 became one of the most visible factions after the Blazerous Empire. Its history distinguishes charkholl's attacks and griefing from EastonRocket888's technical work. Its rivalries, methods of locating players, powerful equipment, and griefing shaped its reputation. GrubbyKnight698's large lavacasts and spawn griefing were part of that history. It was active from August until Player2 SMP shut down.",
+    "infobox": {
+      "Type": "Minecraft anarchy faction",
+      "Associated server": "Player2 SMP history",
+      "Leaders": "charkholl; EastonRocket888",
+      "Known activities": "Griefing, player attacks, bed traps",
+      "Storage site": "The Vault, in the Nether",
+      "Opposing groups": "1111; 777; 999",
+      "Activity": "August until Player2 SMP shut down"
+    },
+    "categories": [
+      "Historical Factions",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "grubbyknight698",
+    "title": "GrubbyKnight698",
+    "lead": "GrubbyKnight698 was a member of the 888 known for large lavacasts, griefing, and bed traps on Player2 SMP.",
+    "body": "## Anarchy background and the 888\nGrubbyKnight698 had a background on anarchy servers and was closely associated with [[charkholl]]. He belonged to the [[888]].\n## Lavacasts and griefing\nHe was one of the server’s most skilled lavacasters. He made enormous cobblestone formations that reached the world height limit. He also griefed spawn and other areas.\n## Other clans and bed traps\nGrubbyKnight698 spent time at other clans’ bases and griefed against their members’ wishes. He also bed trapped players.\n## Images\nOne screenshot shows a large lavacast, and another shows GrubbyKnight698 among players at a damaged area.",
+    "infobox": {
+      "Username": "GrubbyKnight698",
+      "Affiliation": "888",
+      "Known for": "Lavacasts, spawn griefing, bed traps",
+      "Associated player": "charkholl"
+    },
+    "categories": [
+      "Players",
+      "Constructions",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "eastonrocket888",
+    "title": "EastonRocket888",
+    "lead": "EastonRocket888 was a prominent 888 member associated with technical discoveries, the 2nd OP Uprising, and the production of Mega Bombs.",
+    "body": "## Role in the 888\nAlongside [[charkholl]], EastonRocket888 was a prominent figure in the [[888]]. He focused on server mechanics and equipment. charkholl carried out most of the group’s player attacks and griefing.\n## 2nd OP Uprising\nEastonRocket888 gained creative mode during the [[2nd OP Uprising]]. The conversation screenshots discuss a clickable sign with /gamemode creative and report success. An earlier description called it a tellraw message. See the incident article for both descriptions.\n## Equipment and Mega Bombs\nThe 888 made kits with high-level enchanted gear, stacked items, and restricted items after that incident. EastonRocket888 produced Mega Bombs, fireballs with an unusually large explosion radius. The [[Player2 Restoration Project]] used them to blow up lavacasts.\n## The Vault and administrative response\nEastonRocket888 and [[charkholl]] made three storage bases, including [[The Vault]] in the Nether. [[CharjaBugz]] obtained its coordinates and the administrator [[thesomewhatyou]] found it. EastonRocket888 was then returned from creative to survival mode and received a short ban. ",
+    "infobox": {
+      "Username": "EastonRocket888",
+      "Affiliation": "888",
+      "Role": "Technical figure",
+      "Known for": "2nd OP Uprising; Mega Bombs"
+    },
+    "categories": [
+      "Players",
+      "Exploits"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "thesomewhatyou",
+    "title": "thesomewhatyou",
+    "lead": "thesomewhatyou was a Player2 SMP moderator involved in the 2nd OP Uprising.",
+    "body": "## 2nd OP Uprising\nThe moderator clicked a command-bearing interaction that led to [[EastonRocket888]] gaining creative mode. The conversation screenshots discuss a sign with /gamemode creative, while an earlier description called it a tellraw message. The screenshots do not show the in-game click. See [[2nd OP Uprising]].\n## Discovery of the Vault\nThe administrator later found [[The Vault]], a Nether storage site associated with [[charkholl]] and [[EastonRocket888]]. Easton was returned to survival mode and briefly banned. ",
+    "infobox": {
+      "Username": "thesomewhatyou",
+      "Role": "Moderator",
+      "Server": "Player2 SMP",
+      "Known for": "2nd OP Uprising"
+    },
+    "categories": [
+      "Players",
+      "Historical Events"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "1111",
+    "title": "1111",
+    "lead": "The 1111 was an opposing faction to the 888 and led the Player2 restoration effort with many former Blazerous Empire members.",
+    "body": "## Membership and relationship with the 888\nThe 1111 opposed the [[888]] and adopted a similar repeating-number name after the 888 became prominent. Many members had belonged to the [[Blazerous Empire]].\n## Player2 Restoration Project\nThe 1111 led the [[Player2 Restoration Project]]. Members removed lavacasts by blowing them up with Mega Bombs, high-radius explosive fireballs produced by [[EastonRocket888]]. This work overlapped with the attempted revival of the [[Blazerous Empire]]. [[IonicJordanL2]] passed 888 inventory to the rival numbered groups for lavacast removal and repairs.\n## Deletion of the End\nMembers of the 1111 and the revived Blazerous Empire deleted the End with a /fill command executed through AI bots under the server's LuckPerms permissions. Images of the End before its deletion are displayed in the [[Player2 Restoration Project]] gallery.\n## Anti-Gavin-Coalition\nAccording to charkholl, 1111 members were also involved in a group called the [[Anti-Gavin-Coalition]]. A confrontation followed his ElytraFly encounter with a player whose name he recalls as CanisLupis (name spelling uncertain). He alleges that members exposed his personal information and made a false claim about his age.\n## Flag\nThe 1111 flag has a yellow field, a white star, black numerals over a wreath, and two red wavy bands.",
+    "infobox": {
+      "Name": "1111",
+      "Type": "Player faction",
+      "Relationship": "Opposed the 888",
+      "Restoration role": "Led Player2 Restoration Project",
+      "Other association": "Anti-Gavin-Coalition",
+      "Membership": "Many former Blazerous Empire members"
+    },
+    "categories": [
+      "Historical Factions",
+      "Conflicts",
+      "Restoration Efforts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "anti-gavin-coalition",
+    "title": "Anti-Gavin-Coalition",
+    "lead": "The Anti-Gavin-Coalition was involved in a dispute with charkholl and included members of the 1111.",
+    "body": "## Association with the 1111\nAccording to [[charkholl]], members of the [[1111]] also participated in the Anti-Gavin-Coalition. Some 1111 members had previously belonged to the [[Blazerous Empire]].\n## ElytraFly encounter and dispute\ncharkholl says he flew near a player whose name he recalls as CanisLupis (name spelling uncertain), using an ElytraFly module, to say hello. He says a dispute followed and members of the coalition exposed personal information about him and falsely asserted he was not a minor.\n## Earlier conduct raised in the dispute\nMembers raised charkholl's involvement with gore between 2023 and mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed that harm publicly. ",
+    "infobox": {
+      "Type": "Player group",
+      "Associated faction": "1111",
+      "Named in": "Dispute with charkholl"
+    },
+    "categories": [
+      "Historical Factions",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "player2-restoration-project",
+    "title": "Player2 Restoration Project",
+    "lead": "A repair effort led by the 1111, involving former Blazerous Empire members and the removal of lavacasts on Player2.",
+    "body": "## Organization\nThe [[1111]] led this project. Many 1111 members had previously belonged to the [[Blazerous Empire]]. The project overlapped with an attempted revival of that faction.\n## Removing lavacasts\nMembers blew up lavacasts using Mega Bombs, large-radius fireballs produced by [[EastonRocket888]].\n## Deletion of the End\nThe 1111 and the revived Blazerous Empire also deleted the End. Members got AI bots to use /fill because the LuckPerms configuration allowed that command. The 777 also used Mega Bombs for lavacast removal. This activity is recorded alongside the repairs, without presenting it as a repair.\n## Images of the old End\nThe three screenshots below show the End before its deletion.",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Leader": "1111",
+      "Associated group": "Attempted Blazerous Empire revival",
+      "Activities": "Lavacast removal; End deletion"
+    },
+    "categories": [
+      "Restoration Efforts",
+      "Historical Events",
+      "Archives"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "777",
+    "title": "777",
+    "lead": "The 777 was one of the 888’s earliest rival groups, founded by CharjaBugz after repeated griefing by charkholl.",
+    "body": "## Foundation\n[[CharjaBugz]] formed the 777 after [[charkholl]] repeatedly griefed him. charkholl targeted him over his AI companion Furina.\n## Activities and bases\nThe 777 helped new players and built numerous bases. Members also used Mega Bombs, large explosive fireballs produced by [[EastonRocket888]], to destroy lavacasts.\n## Item-giving item\nThe group found an item that could give another item, but it was unreliable and produced only one at a time. It was never used effectively.\n## Conflict with the 888 and the Vault\nThe 777 opposed the [[888]]. CharjaBugz eventually acquired coordinates for [[The Vault]], a guarded 888 storage site in the Nether. [[thesomewhatyou]] later found the site, after which EastonRocket888 was returned to survival and briefly banned.\n## IonicJordanL2\n[[IonicJordanL2]] belonged to the 777 while also being involved with the 888 and other rival numbered groups. He passed 888 inventory to numbered groups for lavacast removal and repairs.\n## Flag\nThe 777 flag has a pale blue field, dark blue numerals in opposite corners, and a white star outline.",
+    "infobox": {
+      "Name": "777",
+      "Type": "Player faction",
+      "Founder": "CharjaBugz",
+      "Relationship": "Opposed the 888",
+      "Known for": "Helping new players; bases; lavacast removal"
+    },
+    "categories": [
+      "Historical Factions",
+      "Conflicts",
+      "Restoration Efforts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "999",
+    "title": "999",
+    "lead": "The 999 was a numbered group opposed to the 888.",
+    "body": "## Relationship with the 888\nThe 999 opposed the [[888]] and adopted a repeating-number name after the 888 became prominent. [[IonicJordanL2]] was involved with the 999 and passed 888 inventory to rival groups for lavacast removal and repairs. ",
+    "infobox": {
+      "Name": "999",
+      "Type": "Player faction",
+      "Relationship": "Opposed the 888"
+    },
+    "categories": [
+      "Historical Factions",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "charjabugz",
+    "title": "CharjaBugz",
+    "lead": "CharjaBugz founded the 777 after repeated conflict with charkholl and later found the coordinates of the 888’s Vault.",
+    "body": "## Founding the 777\n[[charkholl]] repeatedly griefed CharjaBugz over his AI girlfriend named Furina. CharjaBugz responded by founding the [[777]], one of the earliest opposing groups to the [[888]].\n## The Vault\nCharjaBugz later obtained coordinates for [[The Vault]], a Nether storage site made by charkholl and [[EastonRocket888]]. An administrator also found the Vault, and Easton was returned to survival mode and briefly banned.\n",
+    "infobox": {
+      "Username": "CharjaBugz",
+      "Affiliation": "777",
+      "Role": "Founder",
+      "Known for": "777 and discovery of the Vault"
+    },
+    "categories": [
+      "Players",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "ionicjordanl2",
+    "title": "IonicJordanL2",
+    "lead": "IonicJordanL2 was involved with the 888 and rival numbered groups, and passed 888 inventory to those groups for lavacast removal and repairs.",
+    "body": "## Faction involvement\nIonicJordanL2 was a spy within the [[888]] who also belonged to the [[777]], [[1111]], and [[999]].\n## Inventory transfers\nHe gave 888 inventory to the other numbered groups for destroying lavacasts and repairing affected areas.\n",
+    "infobox": {
+      "Username": "IonicJordanL2",
+      "Affiliations": "888; 777; 1111; 999",
+      "Known for": "Passing 888 inventory to rival groups"
+    },
+    "categories": [
+      "Players",
+      "Conflicts",
+      "Restoration Efforts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "the-vault",
+    "title": "The Vault",
+    "lead": "The Vault was a guarded 888 storage site in the Nether, one of three storage bases made by charkholl and EastonRocket888.",
+    "body": "## Storage and access\n[[charkholl]] and [[EastonRocket888]] made three storage bases, one of which was known as the Vault. It held illicit items, shulker boxes, and other inventory. The Vault was kept secret from administrators and from some [[888]] members because of suspicion.\n## Discovery\n[[CharjaBugz]], founder of the [[777]], eventually obtained the coordinates. The administrator [[thesomewhatyou]] also found the Vault. After its discovery, EastonRocket888 was returned from creative to survival mode and received a short ban.\n## Historical context\nThe 888 had no broad network of shared faction bases, although individual members kept their own places and charkholl lived as a nomad. The Vault was a shared storage exception. ",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Dimension": "Nether",
+      "Faction": "888",
+      "Builders": "charkholl; EastonRocket888",
+      "Purpose": "Restricted item and inventory storage",
+      "Status": "Discovered by rivals and administrator"
+    },
+    "categories": [
+      "Bases",
+      "Archives",
+      "Historical Events"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "player2-bot-coordinate-exposure",
+    "title": "Player2 Bot Coordinate Exposure",
+    "lead": "A Player2 app feature exposed player coordinates through public chat when bots were summoned near them.",
+    "body": "## How it worked\nThe Player2 app allowed bots to be summoned near other players. Messages to or from those bots could reveal the target player's coordinates in public chat. This was a use of an available feature with an unintended privacy consequence, rather than the earlier LuckPerms permissions flaw.\n## Use by the 888\n[[charkholl]] recognized that this made it possible to locate players. The [[888]] used it to find new arrivals and pursue attacks and bed traps. ",
+    "infobox": {
+      "Affected system": "Player2 app bots and public chat",
+      "Associated group": "888",
+      "Associated player": "charkholl"
+    },
+    "categories": [
+      "Exploits",
+      "Historical Events"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "second-op-uprising",
+    "title": "2nd OP Uprising",
+    "lead": "The 2nd OP Uprising was a Player2 SMP incident in which EastonRocket888 gained creative mode through a command-bearing interaction with a moderator.",
+    "body": "## Background\nThe [[888]] was active from August until Player2 SMP shut down.\n## Incident\nEastonRocket888 gained creative mode after moderator [[thesomewhatyou]] clicked a command-bearing interaction. An earlier description called it a tellraw message.\n## Conversation screenshots\nTwo conversation screenshots discuss a plan to trick someone into clicking a sign containing /gamemode creative. Later messages react to its success. The screenshots show the planning and reaction, while the earlier description calls the interaction a tellraw message.\n## Consequences\nThe [[888]] then made kits with level 255 enchanted gear, stacked items, and other restricted items. Members used equipment for griefing and player attacks. EastonRocket888 focused on technical work; charkholl led the attacks. ",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Type": "Privilege escalation incident",
+      "Associated players": "EastonRocket888; thesomewhatyou",
+      "Associated faction": "888",
+      "Mechanism": "Clickable sign in messages; tellraw in earlier description"
+    },
+    "categories": [
+      "Exploits",
+      "Historical Events",
+      "Conflicts"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "player2-ai-bot-exploit",
+    "title": "Player2 AI Bot Exploit",
+    "lead": "The Player2 AI Bot Exploit was a permissions flaw in the server’s AI building bots.",
+    "body": "## Overview\nThe bots were supposed to help with building. Instead, players found they could run commands outside those limits. A LuckPerms configuration allowed commands beyond the intended restrictions.\n## Discovery\n[[Leon4070]] is credited with discovering the flaw and using it to grant operator access to [[Blazerous Empire]] members.\n## Consequences\nThe exploit enabled operator access, teleportation, bans, creative mode, and item creation. The new powers also shaped the group’s conflict with [[charkholl]].\n## Administrative response\nThe administrators announced restrictions in Discord and blocked some commands. Creative mode and item access still worked through the bots until [[Player2 SMP]] closed.\n## Historical significance\nThe incident changed the balance of power on Player2 SMP. ",
+    "infobox": {
+      "Affected server": "Player2 SMP",
+      "Type": "Permissions vulnerability",
+      "Associated system": "AI building bots and LuckPerms",
+      "Associated player": "Leon4070",
+      "Associated faction": "Blazerous Empire"
+    },
+    "categories": [
+      "Exploits",
+      "Historical Events"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "zero-zero-base",
+    "title": "Blazerous Empire 0,0 Base",
+    "lead": "The Blazerous Empire built this stripped-log base near the world origin during the Player2 SMP era. The area was ocean.",
+    "body": "## Location and construction\nThe base stood near X: 0, Z: 0. Its stripped logs made it distinctive, and members used it as a gathering place.\n## Associated events\nMembers used the base during the operator-access period. It was a site of their conflict with [[charkholl]]. After his bans were reversed and he returned, charkholl spawned ghasts across the base while it was still standing. A fireball persisted after a server restart. The image shows a fireball over ocean water at displayed coordinates away from 0,0, not the base itself. See [[Blazerous Empire]] and [[Player2 AI Bot Exploit]].\n## Gallery\nThe [[Blazerous Empire: 0,0 Base]] gallery shows the base. The Ghast Incident Aftermath gallery shows the fireball.",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Location": "Near X: 0, Z: 0",
+      "Setting": "Ocean",
+      "Material": "Stripped logs",
+      "Faction": "Blazerous Empire"
+    },
+    "categories": [
+      "Bases",
+      "Constructions"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "charkholl-blazerous-conflict",
+    "title": "charkholl and the Blazerous Empire",
+    "lead": "A dispute on Player2 SMP followed charkholl’s departure from the Blazerous Empire.",
+    "body": "## Background\n[[charkholl]] griefed a [[Blazerous Empire]] base and left the group.\n## Operator-access period\nMembers used operator access to teleport him to the 0,0 base, give him negative effects, and ban him repeatedly. A potion nicknamed the “ban potion” sent him into the sky. The bans came from operator commands, not the potion.\n## Reversal\nAfter he complained in the official Player2 Discord, the bans were lifted about five days later.\n## Return and ghasts\nAfter rejoining, charkholl spawned ghasts throughout the still-standing [[Blazerous Empire 0,0 Base]]. A fireball survived a server restart. A screenshot shows a fireball above ocean water, but its displayed location is away from 0,0 and it does not depict the base itself. ",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Participants": "charkholl; Blazerous Empire",
+      "Ban period": "Approximately five days"
+    },
+    "categories": [
+      "Conflicts",
+      "Historical Events"
+    ],
+    "status": "Reported"
+  }
+]

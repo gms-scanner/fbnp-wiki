@@ -1,0 +1,190 @@
+{
+  "FBnP Launch Record": [
+    {
+      "id": "supplied-fbnp-server-icon",
+      "src": "/images/fbnp-server-icon.png",
+      "filename": "FBnP server icon",
+      "caption": "FBnP server icon.",
+      "source": "Server icon",
+      "date": ""
+    },
+    {
+      "id": "supplied-fbnp-mclist-may-25",
+      "src": "/images/fbnp-mclist-may-25-2026.png",
+      "filename": "FBnP McList entry, May 25, 2026",
+      "caption": "McList record from launch day, May 25, 2026 at 9:47 PM, showing fbnp.chlorid.org, chat, and a map.",
+      "source": "McList screenshot",
+      "date": "May 25, 2026, 9:47 PM as displayed"
+    }
+  ],
+  "Blazerous Empire: 0,0 Base": [
+    {
+      "id": "supplied-blazerous-zero-zero-base",
+      "src": "/images/blazerous-zero-zero-base.png",
+      "filename": "Blazerous Empire 0,0 base",
+      "caption": "Blazerous Empire base near 0,0 on Player2 SMP, showing a wooden platform over the ocean, players, command blocks, and banners.",
+      "source": "Screenshot",
+      "date": ""
+    }
+  ],
+  "Player2 SMP Archives": [
+    {
+      "id": "supplied-player2-world-map",
+      "src": "/images/player2-smp-world-map.png",
+      "filename": "Player2 SMP world map",
+      "caption": "Player2 SMP world map with a coordinate grid, spawn marker, terrain, and player markers.",
+      "source": "Map screenshot",
+      "date": ""
+    }
+  ],
+  "Historical Spawn Locations": [
+    {
+      "id": "supplied-player2-spawn-map",
+      "src": "/images/player2-smp-world-map.png",
+      "filename": "Player2 SMP spawn map",
+      "caption": "Player2 SMP map showing Spawn and the surrounding terrain.",
+      "source": "Map screenshot",
+      "date": ""
+    }
+  ],
+  "GrubbyKnight698 Screenshots": [
+    {
+      "id": "supplied-grubby-lavacast",
+      "src": "/images/grubbyknight698-lavacast.webp",
+      "filename": "Large lavacast",
+      "caption": "Large lavacast near an island, associated with GrubbyKnight698.",
+      "source": "Screenshot",
+      "date": ""
+    },
+    {
+      "id": "supplied-grubby-scene",
+      "src": "/images/grubbyknight698-scene.webp",
+      "filename": "GrubbyKnight698 at a damaged area",
+      "caption": "GrubbyKnight698 among players near a damaged area.",
+      "source": "Screenshot",
+      "date": ""
+    }
+  ],
+  "Elefant Era Branding": [
+    {
+      "id": "supplied-player2-motd",
+      "src": "/images/player2-server-listing.png",
+      "filename": "Player2 SMP server list entry",
+      "caption": "Player2 SMP server list entry showing smp.player2.game, “The Official Player2 SMP,” and an elephant icon.",
+      "source": "Server list screenshot",
+      "date": ""
+    },
+    {
+      "id": "supplied-elefant-artwork",
+      "src": "/images/elefant-era-artwork.png",
+      "filename": "Elefant-era artwork",
+      "caption": "Elefant AI artwork.",
+      "source": "Artwork",
+      "date": ""
+    }
+  ],
+  "2nd OP Uprising Messages": [
+    {
+      "id": "supplied-uprising-planning",
+      "src": "/images/second-op-uprising-planning.png",
+      "filename": "Uprising planning messages",
+      "caption": "Conversation about a clickable sign with /gamemode creative.",
+      "source": "Conversation screenshot",
+      "date": ""
+    },
+    {
+      "id": "supplied-uprising-reaction",
+      "src": "/images/second-op-uprising-reaction.png",
+      "filename": "Uprising reaction messages",
+      "caption": "Conversation reacting to the 2nd OP Uprising.",
+      "source": "Conversation screenshot",
+      "date": ""
+    }
+  ],
+  "Ghast Incident Aftermath": [
+    {
+      "id": "supplied-ghast-fireball",
+      "src": "/images/blazerous-ghast-fireball.png",
+      "filename": "Fireball over ocean",
+      "caption": "Fireball over the ocean after the ghast incident. The screenshot displays X: 744, Z: -262.",
+      "source": "Screenshot",
+      "date": ""
+    }
+  ],
+  "1111 Flag": [
+    {
+      "id": "supplied-1111-flag",
+      "src": "/images/1111-flag.png",
+      "filename": "1111 flag",
+      "caption": "1111 flag.",
+      "source": "Image",
+      "date": ""
+    }
+  ],
+  "777 Flag": [
+    {
+      "id": "supplied-777-flag",
+      "src": "/images/777-flag.png",
+      "filename": "777 flag",
+      "caption": "777 flag.",
+      "source": "Image",
+      "date": ""
+    }
+  ],
+  "888 Flag": [
+    {
+      "id": "supplied-888-flag",
+      "src": "/images/888-flag.png",
+      "filename": "888 flag",
+      "caption": "888 flag.",
+      "source": "Image",
+      "date": ""
+    }
+  ],
+  "Blazerous Empire Flag": [
+    {
+      "id": "supplied-blazerous-flag",
+      "src": "/images/blazerous-flag.png",
+      "filename": "Blazerous Empire flag",
+      "caption": "Blazerous Empire flag.",
+      "source": "Image",
+      "date": ""
+    }
+  ],
+  "Old End Before Deletion": [
+    {
+      "id": "supplied-old-end-jenny",
+      "src": "/images/old-end-jenny.webp",
+      "filename": "Jenny in old End",
+      "caption": "Jenny in the End before its deletion.",
+      "source": "Screenshot",
+      "date": ""
+    },
+    {
+      "id": "supplied-old-end-landscape",
+      "src": "/images/old-end-landscape.webp",
+      "filename": "Old End landscape",
+      "caption": "Structures and lava in the End before its deletion.",
+      "source": "Screenshot",
+      "date": ""
+    },
+    {
+      "id": "supplied-old-end-player2b2t",
+      "src": "/images/old-end-player2b2t.webp",
+      "filename": "Player2 old End",
+      "caption": "Old End terrain before its deletion.",
+      "source": "Screenshot",
+      "date": ""
+    }
+  ],
+  "Blazerous Empire Constructions": [
+    {
+      "id": "supplied-blazerous-bases",
+      "src": "/images/blazerous-bases-overview.png",
+      "filename": "Blazerous bases overview",
+      "caption": "Overhead view of Blazerous Empire structures.",
+      "source": "Image",
+      "date": ""
+    }
+  ]
+}
