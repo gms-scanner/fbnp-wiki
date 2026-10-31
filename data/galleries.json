@@ -186,5 +186,25 @@
       "source": "Image",
       "date": ""
     }
+  ],
+  "Anti-Gavin-Coalition": [
+    {
+      "id": "anti-gavin-coalition-icon",
+      "src": "/images/anti-gavin-coalition-icon.png",
+      "filename": "Anti-Gavin-Coalition emblem",
+      "caption": "Anti-Gavin-Coalition emblem.",
+      "source": "Supplied icon",
+      "date": ""
+    }
+  ],
+  "Chark Player2 Bot": [
+    {
+      "id": "chark-player2-bot-profile",
+      "src": "/images/chark-player2-bot-profile.png",
+      "filename": "Chark Player2 bot profile",
+      "caption": "Chark bot profile, showing its description and Minecraft model.",
+      "source": "Supplied Player2 screenshot",
+      "date": ""
+    }
   ]
 }
