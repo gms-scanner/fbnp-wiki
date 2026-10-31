@@ -430,7 +430,8 @@
       "Profile description": "Teleports to owner leaks coords"
     },
     "categories": [
-      "Historical Events"
+      "Historical Events",
+      "Bots"
     ],
     "status": "Reported"
   }
