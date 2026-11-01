@@ -67,12 +67,13 @@
     "slug": "jcboomin",
     "title": "JcBoomin",
     "lead": "JcBoomin led the original Blazerous Empire during the Player2 SMP era.",
-    "body": "## Leadership\nJcBoomin set out to build a faction with enough people to take on several bases and larger projects. The [[Blazerous Empire]] grew to about 10 to 13 members under his leadership.\n",
+    "body": "## Leadership\nJcBoomin set out to build a faction with enough people to take on several bases and larger projects. The [[Blazerous Empire]] grew to about 10 to 13 members under his leadership.\n## Rivalry with charkholl\n[[charkholl]] remembered JcBoomin as his greatest enemy on Player2 SMP. The available account does not identify a single event that defined their rivalry.\n",
     "infobox": {
       "Username": "JcBoomin",
       "Affiliation": "Blazerous Empire",
       "Role": "Leader",
-      "Server": "Player2 SMP"
+      "Server": "Player2 SMP",
+      "Rivalry": "charkholl"
     },
     "categories": [
       "Players"
@@ -172,13 +173,14 @@
   {
     "slug": "thesomewhatyou",
     "title": "thesomewhatyou",
-    "lead": "thesomewhatyou was a Player2 SMP moderator involved in the 2nd OP Uprising.",
-    "body": "## 2nd OP Uprising\nThe moderator clicked a command-bearing interaction that led to [[EastonRocket888]] gaining creative mode. The conversation screenshots discuss a sign with /gamemode creative, while an earlier description called it a tellraw message. The screenshots do not show the in-game click. See [[2nd OP Uprising]].\n## Discovery of the Vault\nThe administrator later found [[The Vault]], a Nether storage site associated with [[charkholl]] and [[EastonRocket888]]. Easton was returned to survival mode and briefly banned. ",
+    "lead": "thesomewhatyou moderated the Player2 Discord and the old Player2 SMP, and was involved with the Anti-Gavin-Coalition.",
+    "body": "## 2nd OP Uprising\nThe moderator clicked a command-bearing interaction that led to [[EastonRocket888]] gaining creative mode. The conversation screenshots discuss a sign with /gamemode creative, while an earlier description called it a tellraw message. The screenshots do not show the in-game click. See [[2nd OP Uprising]].\n## Discovery of the Vault\nThe moderator later found [[The Vault]], a Nether storage site associated with [[charkholl]] and [[EastonRocket888]]. Easton was returned to survival mode and briefly banned. \n## Anti-Gavin-Coalition\nthesomewhatyou was involved with the [[Anti-Gavin-Coalition]]. The available account does not establish the dates or nature of that involvement.\n",
     "infobox": {
       "Username": "thesomewhatyou",
-      "Role": "Moderator",
+      "Role": "Moderator of Player2 Discord and Player2 SMP",
       "Server": "Player2 SMP",
-      "Known for": "2nd OP Uprising"
+      "Known for": "2nd OP Uprising",
+      "Group involvement": "Anti-Gavin-Coalition"
     },
     "categories": [
       "Players",
@@ -210,7 +212,7 @@
     "slug": "anti-gavin-coalition",
     "title": "Anti-Gavin-Coalition",
     "lead": "The Anti-Gavin-Coalition was involved in a dispute with charkholl and included members of the 1111.",
-    "body": "## Association with the 1111\nAccording to [[charkholl]], members of the [[1111]] also participated in the Anti-Gavin-Coalition. Some 1111 members had previously belonged to the [[Blazerous Empire]].\n## ElytraFly encounter and dispute\ncharkholl says he flew near a player whose name he recalls as CanisLupis (name spelling uncertain), using an ElytraFly module, to say hello. He says a dispute followed and members of the coalition exposed personal information about him and falsely asserted he was not a minor.\n## Earlier conduct raised in the dispute\nMembers raised charkholl's involvement with gore between 2023 and mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed that harm publicly. \n## Emblem\nThe coalition emblem shows a Minecraft character inside a red prohibition sign, with the words “ANTI-GAVIN-COALITION” around the outside. See the image below.\n",
+    "body": "## Association with the 1111\nAccording to [[charkholl]], members of the [[1111]] also participated in the Anti-Gavin-Coalition. Some 1111 members had previously belonged to the [[Blazerous Empire]]. [[thesomewhatyou]], a moderator of the Player2 Discord and old SMP, was also involved with the coalition.\n## ElytraFly encounter and dispute\ncharkholl says he flew near a player whose name he recalls as CanisLupis (name spelling uncertain), using an ElytraFly module, to say hello. He says a dispute followed and members of the coalition exposed personal information about him and falsely asserted he was not a minor.\n## Earlier conduct raised in the dispute\nMembers raised charkholl's involvement with gore between 2023 and mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed that harm publicly. \n## Emblem\nThe coalition emblem shows a Minecraft character inside a red prohibition sign, with the words “ANTI-GAVIN-COALITION” around the outside. See the image below.\n",
     "infobox": {
       "Type": "Player group",
       "Associated faction": "1111",
@@ -262,12 +264,13 @@
   {
     "slug": "999",
     "title": "999",
-    "lead": "The 999 was a numbered group opposed to the 888.",
-    "body": "## Relationship with the 888\nThe 999 opposed the [[888]] and adopted a repeating-number name after the 888 became prominent. [[IonicJordanL2]] was involved with the 999 and passed 888 inventory to rival groups for lavacast removal and repairs. ",
+    "lead": "The 999 was a numbered group led by [[ETAGamer]] and opposed to the [[888]].",
+    "body": "## Leadership\n[[ETAGamer]] owned the 999.\n## Relationship with the 888\nThe 999 opposed the [[888]] and adopted a repeating-number name after the 888 became prominent. [[IonicJordanL2]] was involved with the 999 and passed 888 inventory to rival groups for lavacast removal and repairs. ",
     "infobox": {
       "Name": "999",
       "Type": "Player faction",
-      "Relationship": "Opposed the 888"
+      "Relationship": "Opposed the 888",
+      "Owner": "ETAGamer"
     },
     "categories": [
       "Historical Factions",
@@ -458,13 +461,14 @@
     "slug": "vault-2",
     "title": "Vault 2",
     "lead": "Vault 2 was a storage site associated with [[EastonRocket888]] and [[charkholl]] on Player2 SMP. Its coordinates are unknown.",
-    "body": "## Overview\nEastonRocket888 and charkholl used Vault 2 as a storage site. The surviving screenshot shows an interior room with an emerald-and-gold floor, a glass-covered water channel, anvils, and multiple doorways. A player labeled Eastonrocket888 is visible in the image.\n## Location\nThe coordinates and dimension of Vault 2 have not been established from the supplied screenshot. It should not be confused with [[The Vault]], the documented 888 storage site in the Nether.\n## Gallery\nThe Vault 2 gallery contains the supplied interior screenshot.",
+    "body": "## Overview\nEastonRocket888 and charkholl used Vault 2 as a storage site. The surviving screenshot shows an interior room with an emerald-and-gold floor, a glass-covered water channel, anvils, and multiple doorways. A player labeled Eastonrocket888 is visible in the image.\n## Location\nA lavacast stood above Vault 2, according to the supplied recollection. The interior screenshot does not show it. The coordinates and dimension of Vault 2 have not been established from the supplied screenshot. It should not be confused with [[The Vault]], the documented 888 storage site in the Nether.\n## Gallery\nThe Vault 2 gallery contains the supplied interior screenshot.",
     "infobox": {
       "Server": "Player2 SMP",
       "Associated players": "EastonRocket888; charkholl",
       "Coordinates": "Unknown",
       "Dimension": "Unknown",
-      "Evidence": "Interior screenshot"
+      "Evidence": "Interior screenshot",
+      "Surface feature": "Lavacast above site (recalled)"
     },
     "categories": [
       "Bases",
@@ -490,6 +494,21 @@
       "Bases",
       "Constructions",
       "Archives"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "etagamer",
+    "title": "ETAGamer",
+    "lead": "ETAGamer owned the [[999]], a numbered faction that opposed the [[888]] on Player2 SMP.",
+    "body": "## 999\nETAGamer is identified as the owner of the 999. The supplied image shows their Minecraft skin. The available account does not establish when the group formed or how long ETAGamer led it.",
+    "infobox": {
+      "Username": "ETAGamer",
+      "Role": "Owner of 999",
+      "Server": "Player2 SMP"
+    },
+    "categories": [
+      "Players"
     ],
     "status": "Reported"
   }
