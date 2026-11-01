@@ -452,5 +452,44 @@
       "Player2 OP Bots"
     ],
     "status": "Reported"
+  },
+  {
+    "slug": "vault-2",
+    "title": "Vault 2",
+    "lead": "Vault 2 was a storage site associated with [[EastonRocket888]] and [[charkholl]] on Player2 SMP. Its coordinates are unknown.",
+    "body": "## Overview\nEastonRocket888 and charkholl used Vault 2 as a storage site. The surviving screenshot shows an interior room with an emerald-and-gold floor, a glass-covered water channel, anvils, and multiple doorways. A player labeled Eastonrocket888 is visible in the image.\n## Location\nThe coordinates and dimension of Vault 2 have not been established from the supplied screenshot. It should not be confused with [[The Vault]], the documented 888 storage site in the Nether.\n## Gallery\nThe Vault 2 gallery contains the supplied interior screenshot.",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Associated players": "EastonRocket888; charkholl",
+      "Coordinates": "Unknown",
+      "Dimension": "Unknown",
+      "Evidence": "Interior screenshot"
+    },
+    "categories": [
+      "Bases",
+      "Archives"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "second-e-base",
+    "title": "2nd E Base",
+    "lead": "The 2nd E Base was a Player2 SMP base attributed to [[GrubbyKnight698]], with [[IonicJordanL2]], EarthPluto (spelling uncertain), [[charkholl]], and GrubbyKnight698 named as members.",
+    "body": "## Members and construction\nGrubbyKnight698 is credited with the 2nd E Base. The reported members were IonicJordanL2, EarthPluto (username spelling uncertain), charkholl, and GrubbyKnight698. The supplied exterior screenshot shows a multistory dark-walled building with white trim and lanterns.\n## World capture\nA supplied world archive named “500k base grubbs.zip” contains a WorldTools capture of smp.player2.game made by GrubbyKnight698 on August 29, 2025. Its metadata identifies Minecraft 1.21.4. The saved player position is approximately X: 360, Y: 190, Z: 499,952. This is the player's position in the capture, not a verified coordinate for the building. The archive includes region data for the surrounding 500k area. [Download the world archive](https://gms-scanner.github.io/fbnp-wiki/downloads/500k-base-grubbs.zip).\n## Gallery\nThe 2nd E Base gallery contains the supplied exterior screenshot.",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Builder": "GrubbyKnight698",
+      "Members": "IonicJordanL2; EarthPluto (spelling uncertain); charkholl; GrubbyKnight698",
+      "Location": "500k area; exact building coordinates unverified",
+      "World capture": "August 29, 2025",
+      "Archive": "500k base grubbs.zip",
+      "World download": "500k-base-grubbs.zip (26 MB)"
+    },
+    "categories": [
+      "Bases",
+      "Constructions",
+      "Archives"
+    ],
+    "status": "Reported"
   }
 ]

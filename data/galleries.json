@@ -206,5 +206,25 @@
       "source": "Supplied Player2 screenshot",
       "date": ""
     }
+  ],
+  "Vault 2": [
+    {
+      "id": "vault-2-interior",
+      "src": "/images/vault-2-interior.png",
+      "filename": "Vault 2 interior",
+      "caption": "Interior screenshot attributed to Vault 2, showing emerald and gold flooring, a glass-covered water channel, anvils, and doorways.",
+      "source": "Supplied screenshot",
+      "date": ""
+    }
+  ],
+  "2nd E Base": [
+    {
+      "id": "second-e-base-exterior",
+      "src": "/images/second-e-base-exterior.png",
+      "filename": "2nd E Base exterior",
+      "caption": "Exterior screenshot attributed to the 2nd E Base, showing the dark multistory building with white trim and lanterns.",
+      "source": "Supplied screenshot",
+      "date": ""
+    }
   ]
 }
