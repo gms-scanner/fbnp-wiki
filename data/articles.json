@@ -67,12 +67,13 @@
     "slug": "jcboomin",
     "title": "JcBoomin",
     "lead": "JcBoomin led the original Blazerous Empire during the Player2 SMP era.",
-    "body": "## Leadership\nJcBoomin set out to build a faction with enough people to take on several bases and larger projects. The [[Blazerous Empire]] grew to about 10 to 13 members under his leadership.\n",
+    "body": "## Leadership\nJcBoomin set out to build a faction with enough people to take on several bases and larger projects. The [[Blazerous Empire]] grew to about 10 to 13 members under his leadership.\n## Rivalry with charkholl\n[[charkholl]] remembered JcBoomin as his greatest enemy on Player2 SMP. The available account does not identify a single event that defined their rivalry.\n",
     "infobox": {
       "Username": "JcBoomin",
       "Affiliation": "Blazerous Empire",
       "Role": "Leader",
-      "Server": "Player2 SMP"
+      "Server": "Player2 SMP",
+      "Rivalry": "charkholl"
     },
     "categories": [
       "Players"
@@ -263,12 +264,13 @@
   {
     "slug": "999",
     "title": "999",
-    "lead": "The 999 was a numbered group opposed to the 888.",
-    "body": "## Relationship with the 888\nThe 999 opposed the [[888]] and adopted a repeating-number name after the 888 became prominent. [[IonicJordanL2]] was involved with the 999 and passed 888 inventory to rival groups for lavacast removal and repairs. ",
+    "lead": "The 999 was a numbered group led by [[ETAGamer]] and opposed to the [[888]].",
+    "body": "## Leadership\n[[ETAGamer]] owned the 999.\n## Relationship with the 888\nThe 999 opposed the [[888]] and adopted a repeating-number name after the 888 became prominent. [[IonicJordanL2]] was involved with the 999 and passed 888 inventory to rival groups for lavacast removal and repairs. ",
     "infobox": {
       "Name": "999",
       "Type": "Player faction",
-      "Relationship": "Opposed the 888"
+      "Relationship": "Opposed the 888",
+      "Owner": "ETAGamer"
     },
     "categories": [
       "Historical Factions",
@@ -459,13 +461,14 @@
     "slug": "vault-2",
     "title": "Vault 2",
     "lead": "Vault 2 was a storage site associated with [[EastonRocket888]] and [[charkholl]] on Player2 SMP. Its coordinates are unknown.",
-    "body": "## Overview\nEastonRocket888 and charkholl used Vault 2 as a storage site. The surviving screenshot shows an interior room with an emerald-and-gold floor, a glass-covered water channel, anvils, and multiple doorways. A player labeled Eastonrocket888 is visible in the image.\n## Location\nThe coordinates and dimension of Vault 2 have not been established from the supplied screenshot. It should not be confused with [[The Vault]], the documented 888 storage site in the Nether.\n## Gallery\nThe Vault 2 gallery contains the supplied interior screenshot.",
+    "body": "## Overview\nEastonRocket888 and charkholl used Vault 2 as a storage site. The surviving screenshot shows an interior room with an emerald-and-gold floor, a glass-covered water channel, anvils, and multiple doorways. A player labeled Eastonrocket888 is visible in the image.\n## Location\nA lavacast stood above Vault 2, according to the supplied recollection. The interior screenshot does not show it. The coordinates and dimension of Vault 2 have not been established from the supplied screenshot. It should not be confused with [[The Vault]], the documented 888 storage site in the Nether.\n## Gallery\nThe Vault 2 gallery contains the supplied interior screenshot.",
     "infobox": {
       "Server": "Player2 SMP",
       "Associated players": "EastonRocket888; charkholl",
       "Coordinates": "Unknown",
       "Dimension": "Unknown",
-      "Evidence": "Interior screenshot"
+      "Evidence": "Interior screenshot",
+      "Surface feature": "Lavacast above site (recalled)"
     },
     "categories": [
       "Bases",
@@ -491,6 +494,21 @@
       "Bases",
       "Constructions",
       "Archives"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "etagamer",
+    "title": "ETAGamer",
+    "lead": "ETAGamer owned the [[999]], a numbered faction that opposed the [[888]] on Player2 SMP.",
+    "body": "## 999\nETAGamer is identified as the owner of the 999. The supplied image shows their Minecraft skin. The available account does not establish when the group formed or how long ETAGamer led it.",
+    "infobox": {
+      "Username": "ETAGamer",
+      "Role": "Owner of 999",
+      "Server": "Player2 SMP"
+    },
+    "categories": [
+      "Players"
     ],
     "status": "Reported"
   }
