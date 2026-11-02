@@ -226,5 +226,23 @@
       "source": "Supplied screenshot",
       "date": ""
     }
+  ],
+  "South Highway": [
+    {
+      "id": "south-highway-near-origin",
+      "src": "/images/south-highway-near-origin.webp",
+      "filename": "South Highway near origin",
+      "caption": "South Highway over water near the start of the route. The screenshot displays player position X: 86, Y: 67, Z: 120.",
+      "source": "Supplied Player2 SMP screenshot",
+      "date": ""
+    },
+    {
+      "id": "south-highway-10k",
+      "src": "/images/south-highway-10k.webp",
+      "filename": "South Highway near 10k south",
+      "caption": "South Highway structure near 10k south in rain. The screenshot displays player position X: 81, Y: 65, Z: 9,989.",
+      "source": "Supplied Player2 SMP screenshot",
+      "date": ""
+    }
   ]
 }
