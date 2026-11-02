@@ -100,7 +100,7 @@
     "slug": "charkholl",
     "title": "charkholl",
     "lead": "charkholl played on Player2 SMP, belonged to the Blazerous Empire for a time, and later led the 888.",
-    "body": "## Blazerous Empire period\ncharkholl griefed an Empire base and left the group. Later, when members had unauthorized operator access, they teleported him to their stripped-log base near 0,0, gave him negative effects, and banned him more than once. He asked for the bans to be lifted in the official Player2 Discord. They were reversed after about five days. After returning, he spawned ghasts around the still-standing 0,0 base. An image shows a fireball above the ocean following a server restart. The image does not show the base. See [[Blazerous Empire 0,0 Base]].\n## Later association\ncharkholl later led the [[888]]. He identified a way to locate players when summoned Player2 bots exposed coordinates in public chat. The group used that information during attacks. See [[Player2 Bot Coordinate Exposure]]. charkholl lived as a nomad rather than maintaining a fixed personal base.\n## Conflict with CharjaBugz and the 777\n[[CharjaBugz]] formed the [[777]] after charkholl repeatedly griefed him. The targeting was connected to CharjaBugz's AI companion Furina.\n## GrubbyKnight698\n[[GrubbyKnight698]] was another member of the [[888]] with a background in anarchy servers. The two were closely associated. GrubbyKnight698 built large lavacasts, griefed spawn and other areas, and also used bed traps.\n## Dispute with the 1111\ncharkholl used an ElytraFly module to fly near a player he recalls as CanisLupis (name spelling uncertain) and say hello. A dispute then developed with members of the [[1111]], some of whom had also belonged to the [[Blazerous Empire]], and a group called the [[Anti-Gavin-Coalition]].\n\ncharkholl says people in that group exposed his personal information and falsely claimed he was not a minor. They also raised his past involvement with gore, which he dates to 2023 through mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed it publicly.\n\n## Chark coordbot\ncharkholl created [[Chark (Player2 bot)]], which he could summon on another player to report that player's coordinates in public world chat.\n",
+    "body": "## Blazerous Empire period\ncharkholl griefed an Empire base and left the group. Later, when members had unauthorized operator access, they teleported him to their stripped-log base near 0,0, gave him negative effects, and banned him more than once. He asked for the bans to be lifted in the official Player2 Discord. They were reversed after about five days. After returning, he spawned ghasts around the still-standing 0,0 base. An image shows a fireball above the ocean following a server restart. The image does not show the base. See [[Blazerous Empire 0,0 Base]].\n## Later association\ncharkholl later led the [[888]]. He identified a way to locate players when summoned Player2 bots exposed coordinates in public chat. The group used that information during attacks. See [[Player2 Bot Coordinate Exposure]]. charkholl lived as a nomad rather than maintaining a fixed personal base.\n## Conflict with CharjaBugz and the 777\n[[CharjaBugz]] formed the [[777]] after charkholl repeatedly griefed him. The targeting was connected to CharjaBugz's AI companion Furina.\n## GrubbyKnight698\n[[GrubbyKnight698]] was another member of the [[888]] with a background in anarchy servers. The two were closely associated. GrubbyKnight698 built large lavacasts, griefed spawn and other areas, and also used bed traps.\n## Dispute with the 1111\ncharkholl used an ElytraFly module to fly near a player he recalls as CanisLupis (name spelling uncertain) and say hello. A dispute then developed with members of the [[1111]], some of whom had also belonged to the [[Blazerous Empire]], and a group called the [[Anti-Gavin-Coalition]].\n\ncharkholl says people in that group exposed his personal information and falsely claimed he was not a minor. They also raised his past involvement with gore, which he dates to 2023 through mid-2024. charkholl describes it as an addiction and acknowledges that his conduct harmed people. He says he has addressed it publicly.\n\n## Chark coordbot\ncharkholl created [[Chark (Player2 bot)]], which he could summon on another player to report that player's coordinates in public world chat.\n\n## South Highway\ncharkholl built the [[South Highway]], which extended almost 11,000 blocks along the positive Z direction on Player2 SMP.\n",
     "infobox": {
       "Username": "charkholl",
       "Former affiliation": "Blazerous Empire",
@@ -509,6 +509,25 @@
     },
     "categories": [
       "Players"
+    ],
+    "status": "Reported"
+  },
+  {
+    "slug": "south-highway",
+    "title": "South Highway",
+    "lead": "The South Highway was one of Player2 SMP's first highways. Built by [[charkholl]], it extended almost 11,000 blocks toward positive Z.",
+    "body": "## Route and construction\ncharkholl built the South Highway on Player2 SMP. It has been described as 69/81 blocks off-axis and as one of the server's first and best highways. The supplied screenshots show a roadway near Z: 120 and a later point near Z: 9,989. The displayed player positions are X: 86, Y: 67, Z: 120 in the near-origin view and X: 81, Y: 65, Z: 9,989 in the 10k view; they do not establish the exact centerline of the entire road.\n## Images\nThe near-origin screenshot shows a cobblestone road over water with banners and a stone marker. The 10k screenshot shows a lantern-lit cobblestone structure on the route in rainy weather. Both images retain the original game overlays.",
+    "infobox": {
+      "Server": "Player2 SMP",
+      "Builder": "charkholl",
+      "Direction": "South (positive Z)",
+      "Length": "Almost 11,000 blocks",
+      "Reported offset": "69/81 blocks off-axis",
+      "Period": "Among the server's first highways"
+    },
+    "categories": [
+      "Constructions",
+      "Archives"
     ],
     "status": "Reported"
   }
