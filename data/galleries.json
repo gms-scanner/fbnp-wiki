@@ -244,5 +244,39 @@
       "source": "Supplied Player2 SMP screenshot",
       "date": ""
     }
+  ],
+  "TNFE Screenshots": [
+    {
+      "id": "tnfe-bedtrap-overworld",
+      "src": "/images/tnfe-bedtrap-overworld.webp",
+      "filename": "TNFE bed trap in grassy area",
+      "caption": "Player encounter beside an obsidian trap structure in a grassy area.",
+      "source": "Supplied screenshot",
+      "date": ""
+    },
+    {
+      "id": "tnfe-bedtrap-shore",
+      "src": "/images/tnfe-bedtrap-shore.webp",
+      "filename": "TNFE trap near shore",
+      "caption": "Obsidian trap structure and players beside a sandy shore.",
+      "source": "Supplied screenshot",
+      "date": ""
+    },
+    {
+      "id": "tnfe-chark-trapping",
+      "src": "/images/tnfe-chark-trapping.webp",
+      "filename": "TNFE water encounter",
+      "caption": "Player encounter near an obsidian structure over water.",
+      "source": "Supplied screenshot",
+      "date": ""
+    },
+    {
+      "id": "tnfe-player-group",
+      "src": "/images/grubbyknight698-scene.webp",
+      "filename": "TNFE player group",
+      "caption": "Players gathered around a stone structure; this image also appears in the GrubbyKnight698 screenshots.",
+      "source": "Supplied screenshot; existing archive image",
+      "date": ""
+    }
   ]
 }
